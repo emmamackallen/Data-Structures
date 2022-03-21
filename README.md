@@ -1,2 +1,2 @@
 # Data-Structures
-Various projects and assignments I worked on in CS 3460.
+Implementations and demos of various data structures I learned from CS 3460.
